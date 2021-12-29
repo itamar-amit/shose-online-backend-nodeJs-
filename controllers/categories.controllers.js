@@ -1,4 +1,4 @@
-const {categoryModel}=require ('../schema/categories.shcema')
+const {categoryModel}=require ('../schema/categories.schema')
 
 
 async function categoryValidation (req , res , next){
